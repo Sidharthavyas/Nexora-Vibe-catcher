@@ -1,3 +1,6 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/Sidharthavyas/Nexora-Vibe-catcher/blob/main/Nexora_Sid_Project.ipynb)
+
 Vibe Matcher – Mini Recommender System
 
 AI Internship Assignment – Nexora
